@@ -1,16 +1,14 @@
-### Hi there 👋
+I am Rebecca (Nick Name - Codely), a self-taught to be Front-end dev and Graphic Designer. I am a fan of Disney Cars.
 
-<!--
-**Codely-F/Codely-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What i Know**
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- C Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Online Profiles
+- [CodePen](https://codepen.io/codly)
+- [freeCodeCamp](https://www.freecodecamp.org/codely)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Codely-F&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
