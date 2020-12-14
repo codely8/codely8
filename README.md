@@ -12,3 +12,5 @@ Online Profiles
 - [freeCodeCamp](https://www.freecodecamp.org/codely)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Codely-F&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codely-F)](https://github.com/anuraghazra/github-readme-stats)
