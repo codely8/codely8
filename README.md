@@ -1,4 +1,4 @@
-I am Rebecca (Nick Name - Codely), a self-taught to be Front-end dev and Graphic Designer. 
+A self-taught to be Front-end dev and Graphic Designer. 
 
 **What i Know**
 
