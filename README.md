@@ -1,12 +1,12 @@
-A self-taught to be Front-end dev and Graphic Designer. 
+A self-taught to be Front-end dev. 
 
-**What Languages i  am specialized in **
+**What Languages i  am specialized in**
 
 - HTML
 - CSS
 - C Language
 
-**What i am Learning*
+**What i am Learning**
 
 - Javascript
 
